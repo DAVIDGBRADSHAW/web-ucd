@@ -1,0 +1,250 @@
+*
+body {
+    width: 900px;
+}
+
+.header { 
+        background-color: #869DC7;
+        color: #000000;
+        padding: 5px;
+        font-size: 100%;
+        width: 975px;
+        height: 5000px;
+        text-align: center;
+}
+
+.links {
+    width: 875px;
+    height: min-content;
+    font-size: 100px;
+    align-items: center;
+}
+.ball {
+    font: 60px sans-serif;
+    border: 6px solid #869DC7;
+    background-color: rgb(31, 137, 230);
+    width: 875px;
+    border-radius: 75%;
+    text-align: center;
+}
+
+.info {
+    width: 675px;
+    height: 300px;
+    border: 100px solid #021402;
+    background-color: #00ffff;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.youtube {
+  width: 725px;
+  height: 420x;
+  border: 100px solid #021402;
+  background-color: #000;
+  border-radius: 30px;
+  margin: 1px;
+  padding: 0px;
+
+.stack {
+  width: 100px;
+  height: 100px;
+  border: #000;
+  background-color: #fff;
+  border-radius: 50%;
+  text-align: right;
+
+}
+
+}
+.wrapper-main {
+    width:671px;
+    height: 90px;
+    margin: 2px;
+    padding-right: 10px;
+    border: 70px solid #0000ff;
+    background-color: #d7c360;
+}
+
+
+        
+.footer2 {
+      background-color: #f2ecec;
+      height: 300px;
+      width: 875px;
+      margin: -100px;
+      padding: 10px;
+      color: rgb(217, 9, 9);
+    }
+  
+.footer {
+    width: 900px;
+    height: 200px;
+    color: #ee4d88;
+    background: linear-gradient 32deg, rgba(115,107,231, 1) 0%  rgb(190, 149, 126)91%;
+    border: 16px dotted rgb(235, 41, 73);
+    border-radius: 100px;
+    padding: 4px;
+    margin: 20px;
+}
+
+
+.nav {
+    width: 775px;
+    height: 325px;
+    border: 5px solid #1b1115;
+    background-color: #00ff00;
+    align-items: center;
+    text-align: center;
+    transition:all ;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+
+.wrapper-main {
+    background-color: #d7c360;
+  display: flex;
+  flex-flow: nowrap;
+  padding: 10px;
+  margin: 10px;
+  flex: 1 100% ;
+  border-radius: 10px;
+}
+
+.seven {
+    width: 850px;
+    height: 50px;
+    margin-left: -50px;
+    background-color: #b1dce2;
+    border: 6px double #00ffff;
+}
+
+.four {
+  width: 806px;
+  height: 100px;
+  border: 3px solid #db3232;
+  background-color: #b1dce2;
+  margin: 0px;
+  padding: 0px;
+  align-items: center;
+} 
+.three {
+  display: flex;
+  flex-flow: nowrap;
+  text-align: center;
+  padding: 10px;
+  flex: 1 100% ;
+  font-size: medium;
+  background-color: rgb(169, 215, 145), #00ff00, #00ffff, #7676f1, #777;
+  height: 800px;
+  width: 925px;
+
+.three-header {
+  display: flex;
+  flex-flow: nowrap;
+  text-align: center;
+  padding: 10px;
+  flex: 1 100% ;
+  border-radius: 10px;
+  background-color: rgb(169, 215, 145), #00ff00, #00ffff, #7676f1, #777;
+  height: 200px;
+  width: 925px;
+
+}
+.background-color {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(57deg, #ff5722 30%, #f3b6b6 30%),
+  linear-gradient(23deg, #ff9800 60%, #e91e63 60%);
+}
+
+
+.h2 {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: fantasy;
+}
+.mutli {
+  font-size: large;
+  font-weight: bold;
+  font-family: fantasy;
+  color: #098209;
+}
+
+.three-footer {
+  background: rgb(230, 234, 230);
+  width: 200px;
+  height: 80px;
+  margin: 50px;
+}
+
+.ground {
+    width: 735px;
+    height: 300px;
+    border: 10px solid #00ffff;
+    background-color: #b6cbb6;
+    border-radius: 100%;
+    margin: 5px;
+    margin-bottom: 30px;
+}
+
+.ground-back {
+    width: 775px;
+    height: 400px;
+    border: 5px solid #1b1115;
+    background-color: #098209;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+  }
+
+.aside1 {
+  background: gold;
+}
+
+.aside2{
+  background: hotpink;
+}
+
+.aside3 {
+  background: #c00a0a;
+}
+
+.ball-table {
+  width: 875px;
+  height: max-content;
+  border: #777;
+  font-size: 72px;
+}
+.six {
+    width: 950px;
+    height: 2600px;
+    padding: 100px;
+    margin: 2px;
+    border: 100px solid #d3d3e2;
+    background-color: #e2c298;
+}
+
+.how {
+    padding: 30px;
+    margin: 0px;
+    width: 550px;
+    height: 100px;
+    border: 100px solid #7676f1;
+    box-shadow: #869DC7;
+    background-color: #d7c360;
+}
+
+#hyper {
+    margin: 100px;
+    border: 50px solid #000000;
+    padding: 50px;
+    background-color: #00ff00;
+    border-radius: 50%;
+    align-items: center;
+    text-align: center;
+}
